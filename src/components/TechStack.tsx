@@ -96,7 +96,6 @@ const TechStack = () => {
             gradient={true}
             gradientColor="#0b080c"
             gradientWidth={80}
-            pauseOnHover
             className="techstack-marquee"
           >
             {row.map((tech, i) => (
